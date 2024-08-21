@@ -5,11 +5,12 @@ function Text() {
     return (
         <>
             <div className='ml-28 text-white textContainer mt-20 flex flex-col gap-8'>
-                <div className="text-[48px] font-semibold">
+                <div className="text-[48px] font-semibold leading-tight">
                     <div>Unleash Your Game - Nike</div>
                     <div>Football Essentials for</div>
                     <div>Every Champion</div>
                 </div>
+
 
                 <p className='font-semibold'>
                     "Score big with top Nike football gear. Shop essentials, from <br /> cleats to jerseys, and gear up for your game with the best in <br /> performance and style."
