@@ -15,7 +15,7 @@ function Text() {
                 <p className='font-semibold'>
                     "Score big with top Nike football gear. Shop essentials, from <br /> cleats to jerseys, and gear up for your game with the best in <br /> performance and style."
                 </p>
-                <button className='bg-black h-10 w-32 gap-1 rounded-[10px] font-semibold flex justify-center items-center'>
+                <button className='bg-black h-10 w-32 gap-1 rounded-[10px] font-semibold flex justify-center items-center'  style={{ boxShadow: '10px 15px 4px rgba(0, 0, 0, 0.5)' }}>
                     Get yours <span className="material-symbols-outlined">
                         arrow_circle_right
                     </span>
