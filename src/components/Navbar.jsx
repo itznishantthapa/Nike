@@ -17,7 +17,7 @@ function Navbar() {
                     <li className={listItemHoverStyle}>FEATURES</li>
                 </div>
                 <div className="flex justify-center items-center gap-7 mr-28">
-                    <span class="material-symbols-outlined">
+                    <span className="material-symbols-outlined">
                         shopping_bag
                     </span>
                     <button className='bg-black  h-10 w-24 rounded-[15px]  font-semibold'>Login</button>
